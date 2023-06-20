@@ -12,6 +12,8 @@ Front End Design
 
 REST API Source : https://github.com/BanukaKA/FootballPlayerAPI
 
+The azure hosted api might cause some malfunctitioning in some situations or take time to return http requests. (https://footballbkaapi.azurewebsites.net/api/players)
+
 Project Designed and Developed By : Banuka Kumara Ambegoda
 
 https://github.com/BanukaKA/VueFootballPlayerCRUDFrontEnd/assets/89307136/b52d7609-fb2b-4b9b-ba06-dfa07d18f599
