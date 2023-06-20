@@ -10,8 +10,7 @@ REST Api,
 JSON,
 Front End Design
 
-REST API Source : https://github.com/BanukaKA/FootballPlayerAPI
-
+REST API Source : https://github.com/BanukaKA/FootballPlayerAPI                 
 The azure hosted api might cause some malfunctitioning in some situations or take time to return http requests. (https://footballbkaapi.azurewebsites.net/api/)
 
 Project Designed and Developed By : Banuka Kumara Ambegoda
