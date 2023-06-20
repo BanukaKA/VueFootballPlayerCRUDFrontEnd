@@ -22,3 +22,8 @@ https://github.com/BanukaKA/VueFootballPlayerCRUDFrontEnd/assets/89307136/b52d76
 ![Screenshot 2023-06-20 020152](https://github.com/BanukaKA/VueFootballPlayerCRUDFrontEnd/assets/89307136/1085a1f8-711e-4b41-91a7-41e7f9642585)
 ![Screenshot 2023-06-20 020221](https://github.com/BanukaKA/VueFootballPlayerCRUDFrontEnd/assets/89307136/4b2b6515-dba1-4cb9-9d38-61c263c9ac84)
 ![Screenshot 2023-06-20 015801](https://github.com/BanukaKA/VueFootballPlayerCRUDFrontEnd/assets/89307136/891650ab-a13b-4a93-b74b-3958bec805b5)
+
+I, Banuka Kumara Ambegoda created this Vue JS web application. This is consuming data from a REST Api of my own creation hosted in Azure
+        and developed using .NET Core. It is also performing CRUD operations on the 2 major Tables, Teams and Players. I started doing the application in an NPM environment with the use of the Vue cli and NPM.
+        But as I started facing multiple minor issues I switched and built a much lightweight CDN based application of the exact same thing. The github repository will contain both the cdn based project and the NPM based project both completed and functioning. 
+        Thank You!
