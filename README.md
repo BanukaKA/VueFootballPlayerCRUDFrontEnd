@@ -25,5 +25,5 @@ https://github.com/BanukaKA/VueFootballPlayerCRUDFrontEnd/assets/89307136/b52d76
 
 This VueJS Front End is consuming data from a REST Api of my own creation hosted in Azure
         and developed using .NET Core. It is also performing CRUD operations on the 2 major Tables, Teams and Players. I started doing the application in an NPM environment with the use of the Vue cli and NPM.
-        But as I started facing multiple minor issues I switched and built a much lightweight CDN based application of the exact same thing. The github repository will contain both the cdn based project and the NPM based project both completed and functioning. 
+        But as I started facing multiple minor issues I switched and built a much lightweight CDN based application of the exact same functionality. The github repository will contain both the cdn based project and the NPM based project both completed and properly functioning. 
         Thank You!
