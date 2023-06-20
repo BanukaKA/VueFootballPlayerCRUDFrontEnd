@@ -1,0 +1,68 @@
+body {
+    background-image: url("./assets/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container-fluid {
+    text-align: center;
+    padding: 0;
+}
+
+@media screen and (max-width: 600px) {
+  .content {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 2%;
+    background: white;
+    border-radius: 5px;
+    margin-top: 90px;
+  }
+}
+@media screen and (min-width: 601px) {
+  .content {
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 2%;
+    background: white;
+    border-radius: 5px;
+    margin-top: 90px;
+  }
+}
+
+.navbar {
+    padding: 10px;
+    margin-bottom: 100px;
+  }
+  
+  .navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+  }
+  
+  .navbar-dark .navbar-nav .nav-link:hover {
+    color: #aaa;
+  }
+  
+  .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='rgba(0, 0, 0, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+  }
+  
+  @media (max-width: 768px) {
+    .navbar-toggler {
+      margin-right: 0;
+    }
+    
+    .navbar-nav {
+      margin-top: 10px;
+    }
+    
+    .navbar-nav .nav-item {
+      margin-bottom: 5px;
+    }
+  }
+
+
+  .centered-paragraph {
+    width: 65%; /* Adjust the width as needed */
+    margin: 0 auto; /* Centers the paragraph horizontally */
+  }
