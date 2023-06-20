@@ -2,12 +2,12 @@
 An API client to my own Football REST API with a Vue JS based front end.
 
 Technologies Used : 
-Vue JS
-Axios
-Bootstrap
-HTML, CSS
-REST Api
-JSON
+Vue JS,
+Axios,
+Bootstrap,
+HTML, CSS,
+REST Api,
+JSON,
 Front End Design
 
 Project Designed and Developed By : Banuka Kumara Ambegoda
